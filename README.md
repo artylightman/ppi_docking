@@ -8,7 +8,7 @@ Protein-protein interaction studies in Corey O'Hern's research group at Yale Uni
 
 **Mintseris J, Pierce B, Wiehe K, Anderson R, Chen R, Weng Z. (2007) Integrating Statistical Pair Potentials into Protein Complex Prediction. Proteins 69(3): 511-520.**
 
-ZDOCK is used in this work for protein-protein docking (model generation and scoring)
+ZDOCK is used in this work for protein-protein docking (model generation)
 
 ## HDOCK
 
@@ -16,7 +16,7 @@ ZDOCK is used in this work for protein-protein docking (model generation and sco
 
 **Huang S-Y, Zou X. An iterative knowledge-based scoring function for protein-protein recognition. Proteins 2008;72:557-579.**
 
-HDOCK ab initio (template-free) protocol is used in this work for protein-protein docking (model generation and scoring)
+HDOCK ab initio (template-free) protocol is used in this work for protein-protein docking (model generation)
 
 ## Rosetta Dock
 
