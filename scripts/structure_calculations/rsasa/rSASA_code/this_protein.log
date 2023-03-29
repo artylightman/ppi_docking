@@ -1,0 +1,29 @@
+ ACCALL - Accessibility calculations
+ MAX RESIDUES     8000
+ MAX ATOMS/RES     100
+ PDB FILE INPUT this_protein.pdb
+ PROBE SIZE       1.40
+ Z-SLICE WIDTH   0.001
+ VDW RADII FILE vdw.radii_jennifer
+ EXCL HETATOMS
+ INCL HYDROGENS
+ EXCL WATERS
+ READVDW  31 residues input
+ NON-STANDARD atom.| H1 | in residue> ARG     1 
+ GUESSED vdw of  H1  in ARG     1  =  1.10
+ NON-STANDARD atom.| H2 | in residue> ARG     1 
+ GUESSED vdw of  H2  in ARG     1  =  1.10
+ NON-STANDARD atom.| H3 | in residue> ARG     1 
+ GUESSED vdw of  H3  in ARG     1  =  1.10
+ NON-STANDARD atom.| HA | in residue> ARG     1 
+ ASSUMED vdw of  HA  in ARG     1  =  1.10 (same as ALA)
+ NON-STANDARD atom.| HG2| in residue> ARG     1 
+ ASSUMED vdw of  HG2 in ARG     1  =  1.10 (same as ARG)
+ ADDED VDW RADII
+ CHAINS       1
+ RESIDUES   266
+ ATOMS     3969
+ SOLVA: PROGRAM ENDS CORRECTLY
+ CALCULATED ATOMIC ACCESSIBILITES
+ RELATIVE (STANDARD) ACCESSIBILITIES READFOR  20 AMINO ACIDS
+ SUMMED ACCESSIBILITIES OVER RESIDUES

@@ -1,0 +1,11 @@
+REM  Relative accessibilites read from external file "standard.data"
+REM  File of summed (Sum) and % (per.) accessibilities for 
+REM RES _ NUM      All-atoms   Total-Side   Main-Chain    Non-polar    All polar
+REM                ABS   REL    ABS   REL    ABS   REL    ABS   REL    ABS   REL
+RES SER   156    95.77  82.2  59.31  75.9  36.46  95.0  60.42 124.5  35.35  52.0
+RES ALA   157   135.40 125.4  94.98 136.8  40.42 104.9  83.26 116.6  52.14 142.5
+RES PHE   158    70.78  35.5  69.84  42.6   0.94   2.7  59.92  36.3  10.87  31.7
+END  Absolute sums over single chains surface 
+CHAIN  1 _      302.0        224.1         77.8        203.6         98.4
+END  Absolute sums over all chains 
+TOTAL           302.0        224.1         77.8        203.6         98.4

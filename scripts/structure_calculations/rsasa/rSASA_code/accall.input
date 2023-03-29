@@ -1,0 +1,6 @@
+PDBFILE this_dipept.pdb
+VDWFILE vdw.radii_jennifer
+STDFILE standard.data
+PROBE 1.4
+ZSLICE 0.01
+HYDROGENS
